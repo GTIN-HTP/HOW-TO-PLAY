@@ -1,3 +1,0 @@
-# HOW-TO-PLAY
-
-# ANDROID
