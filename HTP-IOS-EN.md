@@ -6,3 +6,6 @@
 5. Put url "https://configure.gtps.xyz/connect/ios" and click "OK" and "Done"
 6. Press "SETUP" and then agree to policy by clicking "OK" and "Allow" for VPN Configuration!.
 7. Done, then open "Growtopia" and Connect!
+
+# Link Surge 4
+https://apps.apple.com/app/surge-4/id1442620678
